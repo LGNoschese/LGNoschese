@@ -2,7 +2,12 @@
 - 👀 I’m interested in Data Analytcs | Python | HTML5 | CSS3 | Javascrypt | PowerBI  |  Database
 - 🌱 I’m currently learning technology in systems analysis and development  | Java  | Python | SQLServer and I am developing a project of my own and using the following languages:
 <div>
-   <img align="center" height="30" width="80" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+   <img align="center" height="30" width="80" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+   <img align="center" height="30" width="80" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+   <img align="center" height="30" width="80" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+   <img align="center" height="30" width="80" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+   <img align="center" height="30" width="80" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+   <img align="center" height="30" width="80" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
 </div>
 </br>
 - 💞️ I’m looking to collaborate on 
