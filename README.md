@@ -19,7 +19,7 @@
 </br></br>  
 <div>
 <a href="https://discord.com/channels/@me/893282749060894751" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href = "mailto:https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox"><img align="center" height="18" width="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-tbadge&logo=gmail&logoColor=white" target=" _blank"></a>
+  <a href = "mailto:https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox"><img align="center" height="30" width="60" src="https://img.shields.io/badge/Gmail-D14836?style=for-tbadge&logo=gmail&logoColor=white" target=" _blank"></a>
   <a href="https://www.linkedin.com/in/lu%C3%ADs-gustavo-noschese-13b141b7/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
