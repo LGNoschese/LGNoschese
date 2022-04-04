@@ -4,7 +4,7 @@
 <div>
    <img align="center" height="30" width="80" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
 </div>
-
+</br>
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me: e-mail: lgnoschese@hotmail.com or noscheselg@gmail.com
 <div>
