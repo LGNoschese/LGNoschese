@@ -1,5 +1,5 @@
 - � Hi, I’m  Luis  Gustavo Noschese
-- 👀 I’m interested in Data Analytcs | Python | HTML5 | CSS3 | Javascrypt | PowerBI  |  Database
+- 👀 I’m interested in Javascrypt | JAVA | Python
 - 🌱 I’m currently learning technology in systems analysis and development  | Java  | Python | SQLite and I'm  developing a project of my own and using the following languages:
 <div>
    <img align="center" height="30" width="80" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
